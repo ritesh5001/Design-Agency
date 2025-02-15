@@ -45,9 +45,21 @@ A frontend clone of Obys Agency using advanced animations and modern web technol
 - Open your web browser and navigate to `http://localhost:3000`
 - Interact with the project to experience smooth scrolling and animations
 
+
 ## Screenshots/Preview
 
-*Add screenshots or a link to a live preview here*
+![Obys Agency](https://github.com/ritesh5001/Obys-Design-Agency/blob/f884fdc3f6bea77e900e9f42c61a6eeca99f1e34/Obys%20Agency.gif)
+
+
+
+![SS2](https://github.com/ritesh5001/Obys-Design-Agency/blob/951adc14525dfe2b1831283c8cb1f744597b9471/Obys%20SS%20(4).png)
+
+
+
+![SS2](https://github.com/ritesh5001/Obys-Design-Agency/blob/951adc14525dfe2b1831283c8cb1f744597b9471/Obys%20SS%20(3).png)
+
+
+
 
 ## License
 
